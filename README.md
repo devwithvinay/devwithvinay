@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,postgres,prisma,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,postgres,prisma,postman" />
 
 </div>
 
@@ -70,7 +70,6 @@
 
 # 🚀 Featured Projects
 
-- 🎲 Dice Roll Simulator
 - 🔐 Authentication Project
 - 🌐 HTML CSS JS Projects
 - ⚡ JavaScript Mini Projects
