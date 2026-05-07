@@ -1,16 +1,14 @@
 ![Banner](./images/banner.png)
 <div align="center">
 
-# Hi 👋, I'm Vinay Kumar
+# Hi 👋 I'm Vinay Kumar
 
-### 🚀 Beginner MERN Stack Developer
+### 🚀 MERN Stack Developer
 
-💻 Passionate about Web Development  
-🌱 Currently learning Full Stack Development  
-⚡ Building modern UI projects with JavaScript & MERN Stack  
-🎯 Goal: Become a professional Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Learner;JavaScript+Enthusiast;Building+Cool+Projects" alt="Typing SVG" />
+💻 Building modern web applications  
+⚡ Passionate about JavaScript & Full Stack Development  
+🎨 Creating clean UI/UX experiences  
+🌱 Currently learning React & Backend Development  
 
 </div>
 
