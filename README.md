@@ -1,7 +1,14 @@
-![Banner](./images/banner.png)
-<div align="center">
 
-# Hi 👋 I'm Vinay Kumar
+<h3 align="center">
+  <samp>Hi, I'm <b>Vinay</b> 👋</samp>
+</h3>
+
+<p align="center">
+  <samp>
+    Full Stack Developer • JavaScript Enthusiast • Open Source Learner <br>
+    Building modern web applications with MERN Stack & Backend Systems
+  </samp>
+</p>
 
 ### 🚀 MERN Stack Developer
 
