@@ -31,6 +31,9 @@
       height="45"
     />
   </a>
+  <a href="https://www.linkedin.com/in/vinay-kumar-38357233a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -55,35 +58,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=devwithvinay&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithvinay&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=devwithvinay&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
