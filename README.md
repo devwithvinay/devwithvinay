@@ -32,7 +32,7 @@
     />
   </a>
   <a href="https://www.linkedin.com/in/vinay-kumar-38357233a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="45"/>
   </a>
 </p>
 
