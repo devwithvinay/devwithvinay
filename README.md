@@ -29,10 +29,17 @@
       align="center"
       src="https://skillicons.dev/icons?i=github"
       height="45"
+      alt="GitHub"
     />
   </a>
+
   <a href="https://www.linkedin.com/in/vinay-kumar-38357233a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="45"/>
+    <img
+      align="center"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      height="45"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 
