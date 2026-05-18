@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-    Full Stack JavaScript Developer • MERN Stack • Backend Systems • Open Source Learner
+    Full Stack Developer • MERN Stack • Backend Systems • Open Source Learner
   </samp>
 </p>
 
