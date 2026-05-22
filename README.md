@@ -80,14 +80,4 @@
 
 > "Consistency beats motivation." 🚀
 
----
 
-# 👀 Profile Views
-
-<div align="center">
-
-<img
-  src="https://komarev.com/ghpvc/?username=devwithvinay&label=Profile%20Views&color=00c853&style=for-the-badge"
-/>
-
-</div>
