@@ -76,8 +76,5 @@
 
 ---
 
-# 💡 Developer Quote
-
-> "Consistency beats motivation." 🚀
 
 
