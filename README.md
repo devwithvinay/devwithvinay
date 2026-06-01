@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-    Full Stack Developer • Backend Systems • Open Source Learner
+    • Full Stack Developer • Open Source Learner
   </samp>
 </p>
 
